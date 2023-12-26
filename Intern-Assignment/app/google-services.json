@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "167981470979",
+    "project_id": "intern-assignment-43829",
+    "storage_bucket": "intern-assignment-43829.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167981470979:android:55ea6550ce103ce185c536",
+        "android_client_info": {
+          "package_name": "com.InternAssignment.SocialMedia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9Jzxn6vDIowA19URHOzzAJEwePmfJm2c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
